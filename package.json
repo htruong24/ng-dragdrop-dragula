@@ -1,6 +1,6 @@
 {
   "name": "ng-dragdrop-dragula-multibrowsers",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Everything, please refer https://github.com/valor-software/ng2-dragula",
   "main": "index.js",
   "typings": "index.d.ts",
